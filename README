@@ -36,6 +36,8 @@ user's account. The new repository can be called whatever you wish.
 repository when it has a name that is the same as an existing repository
 already associated with the user's account.
 
+Please do not use the Selenium IDE to help generate your tests.
+
 --Setup--
 
 To gain access to the project you must first have Git installed on your local
@@ -54,7 +56,7 @@ git clone https://github.com/jeffmitchell/crest-qa-engineer-project-1-test.git
 This will copy the project to your local machine where you can then work on
 your solution to the four tests.
 
-The code is a Java project built using Maven. To get it running your must
+The code is a Java project built using Maven. To get it running you must
 first have Java installed on your machine. You can download the appropriate
 version of Java from the following URL:
 
@@ -81,9 +83,10 @@ Note that the easiest way to enable Selenium to find ChromeDriver is to place
 ChromeDriver somewhere on your system's PATH.
 
 As you work on your tests be sure to periodically push them to your GitHub
-account (remember not . Once you are satisfied with your solution then send us the URL
-to your repository and we will clone and examine your code. We will then
-contact you to setup an interview to go over your solution.
+account (remember not to include your username and password). Once you are
+satisfied with your solution then send us the URL to your repository and we
+will clone and examine your code. We will then contact you to setup an
+interview to go over your solution.
 
 If you have any questions related to this project then please contact
 Jeff Mitchell (jmitch@vt.edu).
